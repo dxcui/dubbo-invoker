@@ -1,5 +1,5 @@
 # dubbo-invoker
-
+http://www.51testing.com/html/04/n-4462004.html
 ### 一、功能
    实现http->dubbo的转换，任意dubbo接口都可以通过http请求来转发代理实现,支持dubbo attachments，可部署用于测试环境的dubbo接口调试
 ### 二、用法
